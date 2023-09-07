@@ -13,7 +13,7 @@
 - 💬 Ask me about **JAVA,SQL,SWING,JSP and Servlet**
 
 - 📫 How to reach me **paragceg@gmail.com**
-- SQL Interview Question
+- SQL Interview Question[https://docs.google.com/document/d/1aD3lSKT9xHUj3AuukQLHw-qvYA-tJ-sZoIPmAa6PqnU/edit#heading=h.sjbzf8fjlrla]
 
 - 📄 Know about my experiences [https://drive.google.com/drive/folders/1uaVnsoWuxHFm6eM0ZmiNhCO0uZjMJXKs?usp=drive_link]
 
