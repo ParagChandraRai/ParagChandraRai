@@ -13,8 +13,9 @@
 - 💬 Ask me about **JAVA,SQL,SWING,JSP and Servlet**
 
 - 📫 How to reach me **paragceg@gmail.com**
+- SQL Interview Question
 
-- 📄 Know about my experiences [https://drive.google.com/drive/folders/1uaVnsoWuxHFm6eM0ZmiNhCO0uZjMJXKs?usp=drive_link](https://drive.google.com/drive/folders/1uaVnsoWuxHFm6eM0ZmiNhCO0uZjMJXKs?usp=drive_link)
+- 📄 Know about my experiences [https://drive.google.com/drive/folders/1uaVnsoWuxHFm6eM0ZmiNhCO0uZjMJXKs?usp=drive_link]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
