@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Machine Learning**
 
-- 💬 Ask me about **JAVA,SQL,SWING**
+- 💬 Ask me about **JAVA,SQL,SWING,JSP and Servlet**
 
 - 📫 How to reach me **paragceg@gmail.com**
 
