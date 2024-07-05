@@ -1,14 +1,14 @@
 ![MasterHead](https://camo.githubusercontent.com/48ec00ed4c84e771db4a1db90b56352923a8d644452a32b434d68e97006c9337/68747470733a2f2f63686b736b696c6c732e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032302f30342f504e432d416e696d617465642d42616e6e6572732e676966)
 
 <h1 align="center">Hi 👋, I'm PARAG CHANDRA RAI</h1>
-<h3 align="center">INDIAN</h3>
+<h3 align="center">Software  Engineer </h3>
 <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+  <img src="https://camo.githubusercontent.com/d26893d99fe76f99fcf7d36e586ad8a0133c131fd4b101fe56494105b4238549/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f645765734263544c61766b5a754733354d492f67697068792e676966"/>
 </div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=paragchandrarai&label=Profile%20views&color=0e75b6&style=flat" alt="paragchandrarai" /> </p>
 
-- 🌱 I’m currently learning **Machine Learning**
+- 🌱 I’m currently learning **Spring Boot**
 
 - 💬 Ask me about **JAVA,SQL,SWING,JSP and Servlet**
 
